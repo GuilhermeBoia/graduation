@@ -1,0 +1,5 @@
+:- dynamic consulta/8.
+
+consulta(1, 2, 5, 1, "05/09/2024", "15:00", "sem", 'Pendente').
+consulta(2, 2, 6, 1, "20/08/2024", "08:00", "nenhuma", 'Pendente').
+
