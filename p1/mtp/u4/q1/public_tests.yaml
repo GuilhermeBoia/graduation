@@ -1,0 +1,28 @@
+- input: |
+    100,200,300,40,50,60,20,30,40,10,10,10
+  output: |
+    Produção Média Trimestral
+
+    trimestre 1: 200.0
+    trimestre 2: 50.0
+    trimestre 3: 30.0
+    trimestre 4: 10.0
+
+    trimestre(s) em alta:
+    nenhum
+
+- input: |
+    20,100,30,200,200,20,100,150,50,120,80,310
+  output: |
+    Produção Média Trimestral
+
+    trimestre 1: 50.0
+    trimestre 2: 140.0
+    trimestre 3: 100.0
+    trimestre 4: 170.0
+
+    trimestre(s) em alta:
+    2
+    4
+
+

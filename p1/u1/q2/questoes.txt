@@ -1,0 +1,22 @@
+1. Qual o comando para imprimir o diretório corrente?
+pwd
+2. Qual é a variável usada pelo shell para listar os diretórios em que deve buscar comandos?
+PATH
+3. Qual a variável que controla o prompt?
+ps1
+4. Qual o comando para sair do shell?
+Cntrl + d ou exit
+5. Qual comando identifica o usuário?
+id
+5. Qual comando lista os processos em execução?
+ps
+7. Qual comando "imprime" algo no terminal?
+echo
+8. Dê o caminho (pathname) completo do diretório desta atividade
+   em seu sistema de arquivos.
+/home/guilhermeboia/p1/u1/q2
+9. Qual o comando de instalação de pacotes de Python?
+python3 -m install <pacote>
+10. Em qual diretório o sistema de instalaçao de pacotes de
+    Python instala novos comandos?
+/home/guilhermeboia/.local/bin

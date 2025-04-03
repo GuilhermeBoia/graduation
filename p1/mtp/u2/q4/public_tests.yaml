@@ -1,0 +1,9 @@
+- input: |
+    30
+    25
+    150
+    120
+    25
+  output: |
+    Você perdeu 350 min na semana (média de 70.0 min por dia).
+    Daria para aproveitar 5 intervalos(s) para estudar.

@@ -1,0 +1,37 @@
+- input: |
+    26
+    42
+    14
+    39
+  output: |
+    ---
+    soma: 82
+    média: 27.33
+
+    > 26
+    > 42 (acima da média)
+    > 14
+    !!! 39: soma acima de 99
+
+- input: |
+    30
+    70
+  output: |
+    ---
+    soma: 30
+    média: 30.00
+
+    > 30
+    !!! 70: soma acima de 99
+
+- input: |
+    10
+    30
+  output: |
+    ---
+    soma: 40
+    média: 20.00
+
+    > 10
+    > 30 (acima da média)
+    !!! 30: maior que dobro do inicial

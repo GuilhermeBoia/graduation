@@ -1,0 +1,17 @@
+- input: |
+    2
+    1
+  output: |
+    temp final = 7.77778
+
+- input: |
+    3.124
+    1
+  output: |
+    temp final = 9.02667
+
+- input: |
+    -5.0
+    1.32
+  output: |
+    temp final = 0.00000

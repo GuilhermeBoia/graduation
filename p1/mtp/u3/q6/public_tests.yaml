@@ -1,0 +1,9 @@
+- input: |
+    6
+  output: |
+    6 é divisível por 2 e 3 e não por 5.
+
+- input: |
+    4
+  output: |
+    4 é divisível apenas por 2.

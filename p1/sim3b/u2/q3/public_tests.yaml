@@ -1,0 +1,5 @@
+- input: |
+    500.00
+    560.00
+  output: |
+    Reajuste de 12.0%

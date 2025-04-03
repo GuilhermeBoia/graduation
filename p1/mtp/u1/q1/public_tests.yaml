@@ -1,0 +1,16 @@
+- input: |
+    15
+    6
+  output: |
+    - o quociente é 2
+    - o resto é 3
+    - logo, 15 = 6 x 2 + 3
+
+- input: |
+    2176
+    73
+  output: |
+    - o quociente é 29
+    - o resto é 59
+    - logo, 2176 = 73 x 29 + 59
+

@@ -1,0 +1,18 @@
+- input: |
+    batista
+    calixto
+    edgar
+  output: |
+    edgar
+- input: |
+    beto
+    careca
+    batista
+  output: |
+    betocareca
+- input: |
+    beto
+    careca
+    astrogildo
+  output: |
+    Divisivelpordez

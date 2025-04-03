@@ -1,0 +1,8 @@
+- input: |
+    teresa
+    nascimento
+    1
+  name: test_exemplo
+  output: |
+    teresa2.nascimento
+

@@ -1,0 +1,7 @@
+- input: |
+    7 53 12
+    0 48 41
+    4 14 47
+    2 45 0
+  output: |
+    recorde quebrado (7h48min28seg)

@@ -1,0 +1,7 @@
+- input: |
+    6000
+    5
+  name: test_name
+  output: |
+    0.5 kWh
+
